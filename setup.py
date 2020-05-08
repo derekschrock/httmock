@@ -27,4 +27,4 @@ setup(
     install_requires=['requests >= 1.0.0'],
     license=LICENSE,
     long_description=DESCRIPTION,
-    test_suite='tests')
+    test_suite='test')
